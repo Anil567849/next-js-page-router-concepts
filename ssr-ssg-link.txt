@@ -1,0 +1,1 @@
+https://medium.com/@chrisebuberoland/static-site-generation-ssg-vs-server-side-rendering-in-next-js-debf43f4bb7f
